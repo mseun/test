@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1" vod_library="https://mantop.worst.workers.dev/index.html"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1" vod_library="https://raw.githubusercontent.com/mseun/test/refs/heads/main/Vod.txt"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
